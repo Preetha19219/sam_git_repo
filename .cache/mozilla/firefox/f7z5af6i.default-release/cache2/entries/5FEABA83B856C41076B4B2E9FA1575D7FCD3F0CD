@@ -1,0 +1,578 @@
+/* New master CSS
+
+Author: Peter Martin
+Date:	2003-02-13
+
+*/
+
+BODY {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 8pt; /**IE5M**/
+   font-style: normal;
+   line-height: 130%;
+/*   color: #000000;*/
+/*   margin: 15px;*/
+   background-color: #FFFFFF;
+/*   background-repeat: no-repeat;*/
+   Xmargin: 0;
+   }
+
+p.SectionHeading {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 16pt; /**IE5M**/
+   font-weight: bold;
+   letter-spacing: -1;
+   word-spacing: 0;
+   color: #666666;
+   border-bottom: 1px solid #666666;
+   margin: 2.5em 0 1.5em 0;
+   line-height: 130%
+   }
+
+H1 {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 16pt; /**IE5M**/
+   font-weight: bold;
+   letter-spacing: -1;
+   word-spacing: 0;
+   color: #666666;
+   margin: 1.5em 0 0.9em 0;
+   line-height: 130%
+   }
+
+.item_subtitle {
+   font-weight: normal;
+   }
+
+H2 {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13pt; /**IE5M**/
+   font-weight: bold;
+   color: #666666;
+   margin: 2.3em 0 0.6em 0;
+   padding-bottom: 4px;
+   border-bottom: 1px solid #DDDDDD;
+   line-height: 130%
+   }
+
+H3 {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 10pt; /**IE5M**/
+   font-weight: bold;
+   color: #666666;
+   margin: 1.4em 0 0.4em 0;
+   line-height: 130%
+   }
+
+H4 {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 8pt; /**IE5M**/
+   font-weight: bold;
+   color: #555555;
+   margin: 1.2em 0 0.3em 0;
+   line-height: 130%
+   }
+
+H5 {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 8pt; /**IE5M**/
+   font-style: italic;
+   color: #666666;
+   margin: 0.6em 0 0em 0;
+   line-height: 130%
+   }
+
+.author_date_hits {
+   font-size: 7pt;
+   xfont-style: italic;
+   color: #555555;
+   }
+
+.ItemLeaderTitle {
+}
+
+.Runin {
+   font-weight: bold;
+}
+
+
+P, 
+TD {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 8pt; /**IE5M**/
+   font-style: normal;
+   color: #222222;
+   line-height: 11pt; /**IE5M**/
+   word-spacing: 0px;
+   margin: 0em 0em 0.75em 0em
+   }
+
+LI {
+   font-size: 8pt;
+	margin: 0em 0em 0.5em 0em;
+}
+
+A:link {
+   color: #0000FF;
+   text-decoration: none;
+   }
+
+A:visited {
+   color: #660099;
+   text-decoration: none;
+   }
+
+A:hover {
+   color: #FF0000;
+   text-decoration: underline
+   }
+
+A:active {
+   color: #FF0000;
+   text-decoration: none
+   }
+
+
+.Caption {
+	font-size: 7pt;
+	line-height: 9pt;
+	margin: 3px 0 6px 0;
+	}
+
+.Em {
+	font-style: italic;
+	}
+
+.Highlight {
+	background-color: #CCCCFF;
+	}
+
+.Indent {
+	margin: 0 0 0 20px;
+	}
+
+.Keyterm {
+	font-weight: bold;
+	}
+
+.SmallCaps {
+	font-size: smaller;
+	}
+
+.VarName {
+	font-style: italic;
+	}
+
+
+/****************************
+* Tables
+****************************/
+
+.Table_Default {
+	padding: 0px;
+	border-color: #FFFFFF;
+	border-spacing: 0px;
+	border: 0px;
+	padding: 0px;
+	margin: 0px 0px 0px 20px;
+}
+
+.Table_Header_Row {
+	font-weight: bold;
+	background-color: #E8E8E8;
+	border-spacing: 0px;
+	border-top: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	padding: 3px 6px;
+	margin: 0px;
+	
+}
+
+.Table_Odd_Row {
+	border-spacing: 0px;
+	border-width: 0;
+	border-bottom:1px solid #CCCCCC;
+	background-color: #F8F8F8;
+	padding: 2px 6px;
+	vertical-align: top;
+	margin: 0px;
+}
+
+.Table_Even_Row {
+	border-spacing: 0px;
+	border-width: 0;
+	border-bottom:1px solid #CCCCCC;
+	background-color: #F0F0F0;
+	padding: 2px 6px;
+	vertical-align: top;
+	margin: 0px;
+}
+
+.Table_Total_Row {
+	font-weight: bold;
+	border-spacing: 0px;
+	border-width: 0;
+	background-color: #CCCCCC;	
+	padding: 2px 6px;
+}
+
+
+/****************************
+* Category styles
+****************************/
+
+.Cat1, .Cat1_empty {
+   font-size: 7pt;
+   font-weight: bold;
+   line-height: 120%;
+   margin: 10px 2px 0px 0px;
+   white-space:nowrap;
+   }
+
+.Cat1_empty {
+   color: #333333;
+}
+
+.Cat2, .Cat2_empty {
+   font-size: 7pt;
+   line-height: 120%;
+   margin: 0px 2px 0px 5px;
+   white-space:nowrap;
+   }
+
+.Cat2_empty {
+   color: #333333;
+}
+
+.Cat3, .Cat3_empty {
+   font-size: 7pt;
+   line-height: 120%;
+   margin: 0px 2px 0px 10px;
+   white-space:nowrap;
+   }
+
+.Cat3_empty {
+   color: #333333;
+}
+
+.Cat4, .Cat4_empty {
+   font-size: 7pt;
+   line-height: 120%;
+   margin: 0px 2px 0px 15px;
+   white-space:nowrap;
+   }
+
+.Cat4_empty {
+   color: #333333;
+}
+
+A.Cat1:link, A.Cat1:visited {
+   font-size: 7pt;
+   font-weight: bold;
+   color: #FFFFFF;
+   text-decoration: none;
+}
+
+A.Cat1:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+A.Cat2:hover {
+	color: #FFFFFF;
+}
+
+A.Cat2:link, A.Cat2:visited {
+   font-size: 7pt;
+   color: #FFFFFF;
+   text-decoration: none;
+}
+
+A.Cat3:link, A.Cat3:visited {
+   font-size: 7pt;
+   color: #FFFFFF;
+   text-decoration: none;
+}
+
+A.Cat4:link, A.Cat4:visited {
+   font-size: 7pt;
+   color: #FFFFFF;
+   text-decoration: none;
+}
+
+
+/****************************
+Table of Contents styles
+****************************/
+
+.TOCTitle {
+   font-weight: bold;
+margin: 0;
+}
+
+.TOC1 {
+   margin: 10px 2px 0px 0px;
+}
+
+.TOC2 {
+   margin: 0px 2px 0px 15px;
+}
+
+.TOC3 {
+   margin: 0px 2px 0px 30px;
+}
+
+.TOC4 {
+   margin: 0px 2px 0px 45px;
+}
+
+
+/****************************
+Footnote styles
+****************************/
+
+.footnote_ref, .footnote_ref:link {
+	font-size: 80%;
+	font-weight: bold;
+	vertical-align: super;
+}
+
+.footnote_number {
+	font-size: 7pt;
+	vertical-align: super;
+	text-align: right;
+}
+
+.footnote_text {
+	font-size: 7pt;
+	line-height: 140%;
+	padding: 2pt;
+}
+
+.footnote_rule {
+	text-align: left;
+	align: left;
+	width: 20%;
+}
+
+/****************************
+Category Path styles
+****************************/
+
+.CategoryPath {
+	padding:0;
+   font-size: 8pt;
+}
+
+A.CategoryPath:link {
+	color: #0000FF;
+}
+
+
+.UnicodeCharName, .USV {
+	font-size: smaller;
+	}
+
+.Literal {
+	font-family: Courier, Courier New, sans-serif;
+	font-size: 8pt;
+}
+
+.Param {
+	font-family: Courier, Courier New, sans-serif;
+	font-style: italic;
+}
+
+.menu_choice {
+/*	font-style: italic;*/
+	font-weight: bold;
+}
+
+.GUI_button {
+	color: #000000;
+	font-size: smaller;
+	background-color: #C0C0C0;
+	padding: 0px 4px 0px 4px;
+	border-top: 2px solid #D0D0D0;
+	border-right: 1px solid #808080;
+	border-bottom: 1px solid #808080;
+	border-left: 2px solid #D0D0D0;
+}
+
+.key {
+	color: #000000;
+/*	font-weight: bold;*/
+	background-color: #FFFFFF;
+	border: 1px solid #808080;
+	padding: 0px 4px 0px 4px;
+}
+
+
+/****************************
+Special blocks
+****************************/
+
+.Bib_title {
+	font-style: italic;
+}
+
+.Code {
+   font-family: Courier, Courier New, sans-serif;
+   font-size: 8pt;
+/*	border:1px solid #ccc;*/
+	background-color:#F0F0F0;
+	padding:10px;
+margin: 0 0 6px 0;
+}
+
+.WebForm {
+	background-color:#FBFBFB;
+	border:1px solid #DDDDDD;
+	padding:20 20 4 20;
+}
+
+
+.Message {
+   font-size: 7pt;
+	border:1px solid #cccccc;
+	background-color:#F0F0FF;
+	padding:7px;
+margin: 0 0 6px 0;
+}
+
+.Note, .Tip, .Important {
+   font-size: 7pt;
+	border:1px solid #cccccc;
+	background-color:#F0F0F0;
+	padding:10px;
+margin: 0 30px 6px 30px;
+}
+
+.Caution {
+   font-size: 7pt;
+	border:1px solid #FF0000;
+	background-color:#F0F0F0;
+	padding:10px;
+margin: 0 30px 6px 30px;
+}
+
+.Warning {
+   font-size: 7pt;
+	border:1px solid #FF0000;
+	background-color:#F0F0F0;
+	padding:10px;
+margin: 0 30px 6px 30px;
+}
+
+.Note_heading,
+ .Tip_heading {
+	font-weight:bold;
+}
+
+.Important_heading {
+	font-size: 11pt;
+	font-weight:bold;
+}
+
+.Caution_heading {
+	font-size: 11pt;
+	font-weight:bold;
+}
+
+.Warning_heading {
+	font-size: 11pt;
+	font-weight:bold;
+	color:#FF0000;
+}
+
+.Question {
+	margin-top: 30px;
+/*	border-top:2px solid #B0B0B0;*/
+	border-left:0px solid #CCCCCC; /* A border-left setting > 0 causes outdenting after the answer, in IE Win */
+	padding:10px;
+	background-color: #D0D0D0;
+	color:black;
+	font-weight:bold;
+}
+
+.QuestionFirstWord {
+	color: #660000;
+}
+
+.Question:first-line {
+	font-weight:bold;
+}
+
+
+.Answer {
+	margin-left: 0px;
+	margin-bottom: 40px;
+	padding:10px;
+/*	background-color: #EEEEEE;*/
+	border:1px solid #D0D0D0;
+	color:black;
+}
+
+.AnswerFirstWord {
+	color: #000066;
+	font-weight:bold;
+}
+
+.Answer:first-line {
+	xfont-weight:bold;
+}
+
+.Sidebar, .SidebarPeers, .SidebarRelated {
+	width:200px;
+	border:1px solid #336699;
+	padding:10px;
+	color:black;
+	background-color:#F8F8F8;
+	xposition: relative;
+	margin:5px 20px 5px 0px;
+	float: left;
+	clear: left;
+}
+.Sidebar {
+	margin:5px 0px 5px 30px;
+	float: right;
+	clear: right;
+}
+
+.callout_container {
+	border: 1px solid #DDDDDD;
+	background-color: #EEEEEE;
+	margin: 10px 10px 10px 0px;	/* Outside the callout border */
+	padding: 10px;				/* Within the callout */
+	width: 200px				/* Overall width of callout */
+}
+
+.callout_container > p {		/* For any <p> contained in a .callout_container */
+	font-size: 14pt;
+	color: #999999;
+	font-weight: bold;
+	line-height: 120%;
+	margin: 0;
+	padding: 0;
+}
+í*Cxã      ^ÑV°^ÑV°AÑâv^çêØ   G    :https://scripts.sil.org/cms/sites/nrsi/themes/default/_css/default.css necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 01 Apr 2020 08:52:01 GMT
+Content-Type: text/css
+Content-Length: 9284
+Last-Modified: Mon, 12 Mar 2012 16:57:40 GMT
+ETag: "4f5e2b04-2444"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+ original-response-headers Server: nginx
+Date: Wed, 01 Apr 2020 08:52:01 GMT
+Content-Type: text/css
+Content-Length: 9284
+Last-Modified: Mon, 12 Mar 2012 16:57:40 GMT
+Connection: keep-alive
+ETag: "4f5e2b04-2444"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+ ctid 5 eTLD1Access 1;0;1810439162, uncompressed-len 0 net-response-time-onstart 2745 net-response-time-onstop 2747   $D

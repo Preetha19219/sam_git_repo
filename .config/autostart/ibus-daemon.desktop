@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=ibus-daemon
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Ibus
+Name=Ibus
+Comment[en_US]=
+Comment=

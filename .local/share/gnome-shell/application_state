@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="1" last-seen="1585279011"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="61" last-seen="1585561805"/>
+    <application id="org.gnome.Todo.desktop" open-window-count="0" score="1" last-seen="1585290605"/>
+    <application id="firefox.desktop" open-window-count="1" score="17759" last-seen="1585799127"/>
+    <application id="shotwell.desktop" open-window-count="0" score="2" last-seen="1585277865"/>
+    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="75" last-seen="1585781102"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1585289684"/>
+    <application id="gnome-language-selector.desktop" open-window-count="0" score="179" last-seen="1585302332"/>
+    <application id="eog.desktop" open-window-count="0" score="8" last-seen="1585781100"/>
+    <application id="gnome-session-properties.desktop" open-window-count="0" score="14" last-seen="1585300445"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="1" score="2486" last-seen="1585796399"/>
+    <application id="libreoffice-draw.desktop" open-window-count="0" score="66" last-seen="1585749000"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="330" last-seen="1585799119"/>
+    <application id="evince.desktop" open-window-count="0" score="393" last-seen="1585330228"/>
+    <application id="org.gnome.DiskUtility.desktop" open-window-count="0" score="3" last-seen="1585278102"/>
+    <application id="org.gnome.Calendar.desktop" open-window-count="0" score="104" last-seen="1585313814"/>
+    <application id="gkbd-keyboard-display.desktop" open-window-count="0" score="411" last-seen="1585566912"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="7" last-seen="1585282302"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="19" last-seen="1585278067"/>
+    <application id="libreoffice-writer.desktop" open-window-count="0" score="2" last-seen="1585300476"/>
+    <application id="thunderbird.desktop" open-window-count="0" score="0" last-seen="1585756606"/>
+  </context>
+</application-state>

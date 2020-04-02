@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2008-25-46.png" added="2020-03-27T02:55:47Z" modified="2020-03-27T02:58:02Z" visited="2020-03-27T02:55:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T02:55:47Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-03-27T02:58:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2008-26-28.png" added="2020-03-27T02:56:28Z" modified="2020-03-27T03:11:04Z" visited="2020-03-27T02:56:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T02:56:28Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --draw %U&apos;" modified="2020-03-27T03:02:04Z" count="3"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-03-27T02:58:05Z" count="2"/>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2020-03-27T03:11:04Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2008-26-28" added="2020-03-27T03:06:28Z" modified="2020-03-27T03:06:28Z" visited="2020-03-27T03:06:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2020-03-27T03:06:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2008-26-28.odg" added="2020-03-27T03:06:30Z" modified="2020-03-27T03:08:47Z" visited="2020-03-27T03:06:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.graphics"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2020-03-27T03:06:30Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2020-03-27T03:08:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2008-26-28%201st%20edit" added="2020-03-27T03:11:04Z" modified="2020-03-27T03:11:04Z" visited="2020-03-27T03:11:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2020-03-27T03:11:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2008-26-28%201st%20edit.odg" added="2020-03-27T03:11:05Z" modified="2020-03-27T03:12:32Z" visited="2020-03-27T03:11:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.graphics"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2020-03-27T03:11:05Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-27T03:12:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2008-41-51.png" added="2020-03-27T03:11:51Z" modified="2020-03-27T03:11:51Z" visited="2020-03-27T03:11:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T03:11:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_preetha0/Screenshot%20from%202020-03-27%2008-26-28%201st%20edit-1.odg" added="2020-03-27T03:17:26Z" modified="2020-03-27T03:18:01Z" visited="2020-03-27T03:17:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.graphics"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2020-03-27T03:18:01Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2012-03-41.png" added="2020-03-27T06:33:41Z" modified="2020-03-27T06:34:10Z" visited="2020-03-27T06:33:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T06:33:41Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-27T06:34:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2012-07-47.png" added="2020-03-27T06:37:47Z" modified="2020-03-27T06:38:48Z" visited="2020-03-27T06:37:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T06:37:47Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-27T06:38:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2014-38-13.png" added="2020-03-27T09:08:14Z" modified="2020-03-27T09:08:14Z" visited="2020-03-27T09:08:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T09:08:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2014-51-15.png" added="2020-03-27T09:21:16Z" modified="2020-03-27T09:21:16Z" visited="2020-03-27T09:21:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T09:21:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2014-51-20.png" added="2020-03-27T09:21:20Z" modified="2020-03-27T09:21:20Z" visited="2020-03-27T09:21:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T09:21:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2014-51-37.png" added="2020-03-27T09:21:37Z" modified="2020-03-27T09:21:37Z" visited="2020-03-27T09:21:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T09:21:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2014-51-40.png" added="2020-03-27T09:21:41Z" modified="2020-03-27T09:21:41Z" visited="2020-03-27T09:21:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T09:21:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2015-17-02.png" added="2020-03-27T09:47:03Z" modified="2020-03-27T09:47:27Z" visited="2020-03-27T09:47:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T09:47:03Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-27T09:47:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2018-30-30.png" added="2020-03-27T13:00:39Z" modified="2020-03-27T13:00:39Z" visited="2020-03-27T13:00:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T13:00:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2018-31-33.png" added="2020-03-27T13:01:33Z" modified="2020-03-27T13:02:21Z" visited="2020-03-27T13:01:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T13:01:33Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-27T13:02:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Downloads/Advanced_C.pdf" added="2020-03-27T13:08:23Z" modified="2020-03-27T13:08:23Z" visited="2020-03-27T13:08:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-27T13:08:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Downloads/cprogramming_tutorial.pdf" added="2020-03-27T13:09:25Z" modified="2020-03-27T17:29:37Z" visited="2020-03-27T13:09:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-27T13:09:25Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2020-03-27T17:29:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Downloads/cprogrammingquestion.pdf" added="2020-03-27T13:09:28Z" modified="2020-03-27T13:09:28Z" visited="2020-03-27T13:09:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-27T13:09:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Downloads/Complexity_Cheatsheet.pdf" added="2020-03-27T13:09:31Z" modified="2020-03-27T15:31:12Z" visited="2020-03-27T13:09:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-27T13:09:31Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2020-03-27T15:31:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Downloads/cprogramming_tutorial(1).pdf" added="2020-03-27T13:09:51Z" modified="2020-03-27T13:10:11Z" visited="2020-03-27T13:09:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-27T13:09:51Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2020-03-27T13:10:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2021-26-27.png" added="2020-03-27T15:56:27Z" modified="2020-03-27T15:56:27Z" visited="2020-03-27T15:56:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T15:56:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2021-26-34.png" added="2020-03-27T15:56:34Z" modified="2020-03-27T15:56:34Z" visited="2020-03-27T15:56:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T15:56:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-27%2021-26-42.png" added="2020-03-27T15:56:43Z" modified="2020-03-27T15:56:43Z" visited="2020-03-27T15:56:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-27T15:56:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2011-14-17.png" added="2020-03-28T05:44:18Z" modified="2020-03-28T05:44:38Z" visited="2020-03-28T05:44:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T05:44:18Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T05:44:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Documents/BIOS" added="2020-03-28T05:51:35Z" modified="2020-03-30T14:34:10Z" visited="2020-03-28T05:51:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-03-30T14:34:10Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-13-40.png" added="2020-03-28T15:43:41Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:43:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:43:41Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-13-45.png" added="2020-03-28T15:43:45Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:43:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:43:45Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-13-53.png" added="2020-03-28T15:43:53Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:43:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:43:53Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-14-03.png" added="2020-03-28T15:44:04Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:44:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:44:04Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-14-13.png" added="2020-03-28T15:44:14Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:44:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:44:14Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-14-21.png" added="2020-03-28T15:44:21Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:44:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:44:21Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-14-29.png" added="2020-03-28T15:44:29Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:44:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:44:29Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-14-46.png" added="2020-03-28T15:44:46Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:44:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:44:46Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-14-59.png" added="2020-03-28T15:44:59Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:44:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:44:59Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-15-11.png" added="2020-03-28T15:45:12Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:45:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:45:12Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-15-25.png" added="2020-03-28T15:45:26Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:45:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:45:26Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-15-39.png" added="2020-03-28T15:45:39Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:45:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:45:39Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-15-52.png" added="2020-03-28T15:45:52Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:45:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:45:52Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-15-59.png" added="2020-03-28T15:45:59Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:46:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:45:59Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-16-05.png" added="2020-03-28T15:46:05Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:46:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:46:05Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-16-10.png" added="2020-03-28T15:46:11Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:46:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:46:11Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-16-14.png" added="2020-03-28T15:46:15Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:46:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:46:15Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-16-22.png" added="2020-03-28T15:46:23Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:46:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:46:23Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-16-30.png" added="2020-03-28T15:46:31Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:46:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:46:31Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-16-35.png" added="2020-03-28T15:46:36Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:46:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:46:36Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-16-41.png" added="2020-03-28T15:46:41Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:46:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:46:41Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-16-52.png" added="2020-03-28T15:46:52Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:46:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:46:52Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-17-14.png" added="2020-03-28T15:47:15Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:47:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:47:15Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-17-37.png" added="2020-03-28T15:47:37Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:47:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:47:37Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-17-49.png" added="2020-03-28T15:47:49Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:47:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:47:49Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-18-15.png" added="2020-03-28T15:48:16Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:48:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:48:16Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-18-44.png" added="2020-03-28T15:48:44Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:48:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:48:44Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-18-47.png" added="2020-03-28T15:48:47Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:48:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:48:47Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-18-56.png" added="2020-03-28T15:48:57Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:48:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:48:57Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-19-04.png" added="2020-03-28T15:49:04Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:49:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:49:04Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-20-24.png" added="2020-03-28T15:50:24Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:50:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:50:24Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-20-29.png" added="2020-03-28T15:50:30Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:50:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:50:30Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-28%2021-20-37.png" added="2020-03-28T15:50:38Z" modified="2020-03-28T15:54:57Z" visited="2020-03-28T15:50:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-28T15:50:38Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-28T15:54:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-30%2009-11-41.png" added="2020-03-30T03:41:42Z" modified="2020-03-30T03:41:42Z" visited="2020-03-30T03:41:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-30T03:41:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-30%2021-14-30.png" added="2020-03-30T15:44:31Z" modified="2020-03-30T15:44:31Z" visited="2020-03-30T15:44:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-30T15:44:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-03-30%2021-46-44.png" added="2020-03-30T16:16:44Z" modified="2020-03-30T16:16:44Z" visited="2020-03-30T16:16:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-30T16:16:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Documents/BIOS%20and%20UEFI" added="2020-03-30T16:19:18Z" modified="2020-04-02T03:11:46Z" visited="2020-03-30T16:19:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-04-02T01:21:27Z" count="7"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-02T03:11:46Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2006-32-27.png" added="2020-04-01T01:02:28Z" modified="2020-04-01T01:03:12Z" visited="2020-04-01T01:02:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T01:02:28Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T01:03:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2006-35-21.png" added="2020-04-01T01:05:22Z" modified="2020-04-01T01:05:22Z" visited="2020-04-01T01:05:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T01:05:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2006-35-36.png" added="2020-04-01T01:05:37Z" modified="2020-04-01T01:06:35Z" visited="2020-04-01T01:05:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T01:05:37Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T01:06:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2006-35-55.png" added="2020-04-01T01:05:55Z" modified="2020-04-01T01:06:35Z" visited="2020-04-01T01:05:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T01:05:55Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T01:06:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/MBR%20AND%20GPT" added="2020-04-01T03:53:00Z" modified="2020-04-01T04:13:36Z" visited="2020-04-01T03:53:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-04-01T04:13:36Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Answer%20papaer2" added="2020-04-01T08:47:14Z" modified="2020-04-01T08:47:15Z" visited="2020-04-01T08:47:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-04-01T08:47:15Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Answer%20papaer2.md" added="2020-04-01T08:47:41Z" modified="2020-04-02T03:12:36Z" visited="2020-04-01T08:47:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-04-01T16:11:52Z" count="4"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-02T03:12:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Answer%20paper3.md" added="2020-04-01T09:26:17Z" modified="2020-04-02T03:12:56Z" visited="2020-04-01T09:26:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-04-01T15:46:43Z" count="7"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-02T03:12:56Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2019-03-25.png" added="2020-04-01T13:33:25Z" modified="2020-04-01T13:35:10Z" visited="2020-04-01T13:33:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T13:33:25Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T13:35:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2019-03-33.png" added="2020-04-01T13:33:34Z" modified="2020-04-01T13:35:10Z" visited="2020-04-01T13:33:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T13:33:34Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T13:35:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2019-03-46.png" added="2020-04-01T13:33:46Z" modified="2020-04-01T13:35:10Z" visited="2020-04-01T13:33:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T13:33:46Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T13:35:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2019-14-16.png" added="2020-04-01T13:44:17Z" modified="2020-04-01T13:47:44Z" visited="2020-04-01T13:44:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T13:44:17Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T13:47:44Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-04-01T13:45:07Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --draw %U&apos;" modified="2020-04-01T13:45:36Z" count="1"/>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2020-04-01T13:47:03Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/imageinlibreoffice" added="2020-04-01T13:47:02Z" modified="2020-04-01T13:47:02Z" visited="2020-04-01T13:47:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2020-04-01T13:47:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/imageinlibreoffice.odg" added="2020-04-01T13:47:04Z" modified="2020-04-01T13:48:09Z" visited="2020-04-01T13:47:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.graphics"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2020-04-01T13:47:04Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T13:48:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_preetha0/imageinlibreoffice.odg" added="2020-04-01T13:48:50Z" modified="2020-04-01T14:02:11Z" visited="2020-04-01T13:48:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.graphics"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2020-04-01T14:02:11Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_preetha0/imageinlibreoffice-1.odg" added="2020-04-01T13:49:55Z" modified="2020-04-01T13:50:00Z" visited="2020-04-01T13:49:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.graphics"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2020-04-01T13:50:00Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Downloads/google-chrome-stable_current_amd64.deb" added="2020-04-01T14:01:37Z" modified="2020-04-01T14:04:17Z" visited="2020-04-01T14:01:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-04-01T14:01:37Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T14:04:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2021-33-51.png" added="2020-04-01T16:03:52Z" modified="2020-04-01T16:03:52Z" visited="2020-04-01T16:03:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T16:03:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2021-33-56.png" added="2020-04-01T16:03:57Z" modified="2020-04-01T16:03:57Z" visited="2020-04-01T16:03:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T16:03:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2021-35-28.png" added="2020-04-01T16:05:29Z" modified="2020-04-01T16:05:29Z" visited="2020-04-01T16:05:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T16:05:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2021-37-21.png" added="2020-04-01T16:07:21Z" modified="2020-04-01T16:07:21Z" visited="2020-04-01T16:07:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T16:07:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2021-37-34.png" added="2020-04-01T16:07:34Z" modified="2020-04-01T16:07:34Z" visited="2020-04-01T16:07:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T16:07:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2021-37-39.png" added="2020-04-01T16:07:39Z" modified="2020-04-01T16:07:39Z" visited="2020-04-01T16:07:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T16:07:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-01%2021-39-12.png" added="2020-04-01T16:09:13Z" modified="2020-04-01T16:09:57Z" visited="2020-04-01T16:09:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T16:09:13Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T16:09:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Downloads/WhatsApp%20Image%202020-04-02%20at%204.13.04%20AM.jpeg" added="2020-04-01T22:43:56Z" modified="2020-04-01T22:45:28Z" visited="2020-04-01T22:43:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T22:45:28Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-04-01T22:44:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2004-22-37.png" added="2020-04-01T22:52:38Z" modified="2020-04-01T22:52:38Z" visited="2020-04-01T22:52:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T22:52:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2004-22-51.png" added="2020-04-01T22:52:51Z" modified="2020-04-01T22:53:09Z" visited="2020-04-01T22:52:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T22:52:51Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T22:53:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2004-37-13.png" added="2020-04-01T23:07:13Z" modified="2020-04-01T23:07:13Z" visited="2020-04-01T23:07:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T23:07:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2004-37-24.png" added="2020-04-01T23:07:24Z" modified="2020-04-01T23:07:47Z" visited="2020-04-01T23:07:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T23:07:24Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T23:07:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2004-41-50.png" added="2020-04-01T23:11:50Z" modified="2020-04-01T23:12:16Z" visited="2020-04-01T23:11:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T23:11:50Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T23:12:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2004-45-50.png" added="2020-04-01T23:15:51Z" modified="2020-04-01T23:16:41Z" visited="2020-04-01T23:15:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T23:15:51Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T23:16:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2004-56-27.png" added="2020-04-01T23:26:27Z" modified="2020-04-01T23:26:27Z" visited="2020-04-01T23:26:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T23:26:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2004-56-39.png" added="2020-04-01T23:26:39Z" modified="2020-04-01T23:26:39Z" visited="2020-04-01T23:26:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T23:26:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2004-56-42.png" added="2020-04-01T23:26:42Z" modified="2020-04-01T23:26:42Z" visited="2020-04-01T23:26:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T23:26:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2004-56-47.png" added="2020-04-01T23:26:47Z" modified="2020-04-01T23:26:47Z" visited="2020-04-01T23:26:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T23:26:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2004-58-02.png" added="2020-04-01T23:28:03Z" modified="2020-04-01T23:28:03Z" visited="2020-04-01T23:28:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T23:28:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2004-58-55.png" added="2020-04-01T23:28:55Z" modified="2020-04-01T23:28:55Z" visited="2020-04-01T23:28:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T23:28:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2004-59-56.png" added="2020-04-01T23:29:57Z" modified="2020-04-01T23:29:57Z" visited="2020-04-01T23:29:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T23:29:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2005-00-17.png" added="2020-04-01T23:30:18Z" modified="2020-04-01T23:31:04Z" visited="2020-04-01T23:30:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T23:30:18Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T23:31:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2005-03-35.png" added="2020-04-01T23:33:35Z" modified="2020-04-01T23:38:29Z" visited="2020-04-01T23:33:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T23:33:35Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T23:38:29Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2005-17-46.png" added="2020-04-01T23:47:47Z" modified="2020-04-01T23:48:07Z" visited="2020-04-01T23:47:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-01T23:47:47Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-01T23:48:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2005-48-04.png" added="2020-04-02T00:18:04Z" modified="2020-04-02T00:18:24Z" visited="2020-04-02T00:18:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-02T00:18:04Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-02T00:18:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2005-51-29.png" added="2020-04-02T00:21:30Z" modified="2020-04-02T00:22:08Z" visited="2020-04-02T00:21:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-02T00:21:30Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-02T00:22:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2006-26-19.png" added="2020-04-02T00:56:20Z" modified="2020-04-02T00:56:20Z" visited="2020-04-02T00:56:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-02T00:56:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2006-28-38.png" added="2020-04-02T00:58:39Z" modified="2020-04-02T00:59:13Z" visited="2020-04-02T00:58:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-02T00:58:39Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-02T00:59:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2006-28-55.png" added="2020-04-02T00:58:56Z" modified="2020-04-02T01:01:54Z" visited="2020-04-02T00:58:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-02T00:58:56Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-04-02T01:01:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2006-59-12.png" added="2020-04-02T01:29:12Z" modified="2020-04-02T01:29:12Z" visited="2020-04-02T01:29:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-02T01:29:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2007-00-16.png" added="2020-04-02T01:30:16Z" modified="2020-04-02T01:30:16Z" visited="2020-04-02T01:30:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-02T01:30:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2007-03-16.png" added="2020-04-02T01:33:16Z" modified="2020-04-02T01:33:16Z" visited="2020-04-02T01:33:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-02T01:33:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2008-34-01.png" added="2020-04-02T03:04:02Z" modified="2020-04-02T03:04:02Z" visited="2020-04-02T03:04:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-02T03:04:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/preetha/Pictures/Screenshot%20from%202020-04-02%2008-35-03.png" added="2020-04-02T03:05:03Z" modified="2020-04-02T03:05:03Z" visited="2020-04-02T03:05:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-04-02T03:05:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
