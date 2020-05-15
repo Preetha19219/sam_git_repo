@@ -1,10 +1,10 @@
 [directory]
 nautilus-icon-view-keep-aligned=false
-nautilus-icon-view-layout-timestamp=1585787643
+nautilus-icon-view-layout-timestamp=1589521644
 nautilus-desktop-icon-size=48
 
 [trash]
-nautilus-icon-position-timestamp=1585787643
+nautilus-icon-position-timestamp=1589521644
 nautilus-icon-position=56,26
 icon-scale=1
 
@@ -16,4 +16,14 @@ icon-scale=1
 [LAVA Z60.volume]
 nautilus-icon-position=56,146
 icon-scale=1
-nautilus-icon-position-timestamp=1585554075
+nautilus-icon-position-timestamp=1588840759
+
+[38 GB Volume.volume]
+nautilus-icon-position=56,446
+icon-scale=1
+nautilus-icon-position-timestamp=1588813509
+
+[mtp.volume]
+nautilus-icon-position=56,446
+icon-scale=1
+nautilus-icon-position-timestamp=1588825004

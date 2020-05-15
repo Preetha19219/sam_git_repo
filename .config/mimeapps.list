@@ -2,3 +2,4 @@
 image/png=libreoffice-draw.desktop;gnome-disk-image-writer.desktop;shotwell-viewer.desktop;
 application/vnd.oasis.opendocument.graphics=eog.desktop;
 application/zip=libreoffice-draw.desktop;
+application/vnd.oasis.opendocument.spreadsheet=org.gnome.Nautilus.desktop;
